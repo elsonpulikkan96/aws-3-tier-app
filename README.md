@@ -1,7 +1,13 @@
 # 3-Tier AWS Terraform Project + Packer with VPC and ALB (Modules / Workspace) .tfstate File in S3 Bucket
 
 ## For more projects, check out  
-[https://harishnshetty.github.io/projects.html](https://harishnshetty.github.io/projects.html)
+[https://github.com/elsonpulikkan96](https://github.com/elsonpulikkan96/)
+
+## Connect with me:
+[https://elsondevops.cloud](https://elsondevops.cloud)
+[https://www.linkedin.com/in/elsondevops](https://www.linkedin.com/in/elsondevops)
+
+
 
 [![Video Tutorial](https://github.com/harishnshetty/image-data-project/blob/18092a3f383409bf598a67558f62f3a2ac80e9f9/3tieraws-project-statelock-terraform-packer-alb-module-workspace.jpg)](https://youtu.be/BgyYqUXuHuk?si=Gi6vkxhnVJQBILkG)
 
