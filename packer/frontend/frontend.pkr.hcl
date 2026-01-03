@@ -19,7 +19,7 @@ source "amazon-ebs" "frontend" {
   instance_type = "t3.micro"
   ssh_username  = "ec2-user"
   
-  # Amazon Linux 2023 AMI ID for ap-south-1 (verify this ID or use a filter)
+  # Amazon Linux 2023 AMI ID for us-east-1 (verify this ID or use a filter)
   # Using a filter to always get the latest AL2023
   source_ami_filter {
     filters = {
