@@ -252,8 +252,8 @@ data "aws_acm_certificate" "selected" {
   most_recent = true
 
   tags = {
-    Domain = "harishshetty"
-    Name   = "harishshetty"
+    Domain = "elsondevops.cloud"
+    Name   = "elsondevops.cloud"
   }
 }
 ```
@@ -273,12 +273,12 @@ ssh -i "new-keypair.pem" ec2-user@ec2-3-6-88-181.ap-south-1.compute.amazonaws.co
 
 **Copy Keypair to EC2 (Dev):**
 ```bash
-scp -i "new-keypair.pem" new-keypair.pem ec2-user@ec2-3-6-88-181.ap-south-1.compute.amazonaws.com:/home/ec2-user
+scp -i "new-keypair.pem" new-keypair.pem ec2-user@ec2-3-6-88-181.us-east-1.compute.amazonaws.com:/home/ec2-user
 ```
 
 **Connect to RDS from EC2 (Dev):**
 ```bash
-mysql -h db-instance-dev.cne0wymoyx30.ap-south-1.rds.amazonaws.com -u admin -p
+mysql -h db-instance-dev.cne0wymoyx30.us-east-1.rds.amazonaws.com -u admin -p
 ```
 
 **SSH & SCP (US Region / Staging):**

@@ -1,4 +1,4 @@
-region             = "ap-south-1"
+region             = "us-east-1"
 vpc_cidr_block     = "10.75.0.0/16"
 alb_subnet_public  = ["10.75.1.0/24", "10.75.2.0/24", "10.75.3.0/24"]
 web_subnet_private = ["10.75.4.0/24", "10.75.5.0/24", "10.75.6.0/24"]
@@ -16,7 +16,7 @@ storage_encrypted       = false
 db_allocated_storage    = 20
 db_storage_type         = "gp3"
 db_username             = "admin"
-db_password             = "password" # NOTE: Consider using a safer way to pass secrets
+db_password             = "tHpDjaWBv#k@tN" # NOTE: Consider using a safer way to pass secrets
 db_name                 = "webappdb"
 
 multi_az            = true
@@ -43,10 +43,10 @@ desired_capacity_app = 2
 min_size_app         = 2
 max_size_app         = 4
 
-sns_topic_arn = "arn:aws:sns:ap-south-1:970378220457:alb-sns-demo" # create your own sns topic
+sns_topic_arn = "arn:aws:sns:us-east-1:739275449845:elsondevops-alb-sns-demo" # create your own sns topic
 
 
-hosted_zone_name = "harishshetty.xyz" # create your own hosted zone
+hosted_zone_name = "elsondevops.cloud" # create your own hosted zone
 record_name      = "dev"
 
 
