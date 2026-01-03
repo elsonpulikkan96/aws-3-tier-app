@@ -70,7 +70,7 @@
                         ]
                     ],
                     "file_path": "/data.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/data.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/data.tf",
                     "repo_file_path": "/data.tf",
                     "file_line_range": [
                         5,
