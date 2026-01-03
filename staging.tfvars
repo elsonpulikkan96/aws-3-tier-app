@@ -46,7 +46,7 @@ max_size_app         = 4
 sns_topic_arn = "arn:aws:sns:us-east-1:970378220457:alb-demo-us-east-1"
 
 
-hosted_zone_name = "harishshetty.xyz"
+hosted_zone_name = "elsondevops.cloud"
 record_name      = "staging"
 
 
