@@ -165,10 +165,7 @@ terraform destroy -var-file="dev.tfvars" -auto-approve
 terraform destroy -var-file="stage.tfvars" -auto-approve
 terraform destroy -var-file="prod.tfvars" -auto-approve
 ``` 
-[![Video Tutorial](https://github.com/harishnshetty/image-data-project/blob/c757fcf45b14c2ab0a65b0d01633685c191d88ec/Screenshot%20from%202025-09-20%2017-12-11.png)](https://www.youtube.com/@devopsHarishShetty)
-
-
-## What We Will Learn in This Video
+## What We Will Learn in This DevOps Project
 
 ### 1. Core Concepts and Tools
 * **Shell Scripting**
@@ -300,6 +297,3 @@ mysql -h db-instance-staging.ce3iwawsm9az.us-east-1.rds.amazonaws.com:3306 -u ad
 sudo yum install -y stress htop
 stress --cpu $(nproc) --timeout 300
 ```
-
-
-
