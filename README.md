@@ -124,7 +124,7 @@ checkov -d . -o json > checkov-report.json
 ---
 ## mysql command line to add the Database
 ```bash
-mysql -h db-instance-dev.cne0wymoyx30.ap-south-1.rds.amazonaws.com -u admin -p
+mysql -h db-instance-dev.cne0wymoyx30.us-east-1.rds.amazonaws.com -u admin -p
 ```
 ---
 
