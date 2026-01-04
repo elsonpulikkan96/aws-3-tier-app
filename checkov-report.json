@@ -21955,19 +21955,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-that-security-groups-are-attached-to-ec2-instances-or-elastic-network-interfaces-enis",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -21975,7 +21975,7 @@
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 6,
                                 "source_module_object": null
                             }
@@ -22235,7 +22235,7 @@
                         ]
                     ],
                     "file_path": "/modules/sg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "repo_file_path": "/modules/sg/main.tf",
                     "file_line_range": [
                         56,
@@ -22261,19 +22261,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-that-security-groups-are-attached-to-ec2-instances-or-elastic-network-interfaces-enis",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -22281,7 +22281,7 @@
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 6,
                                 "source_module_object": null
                             }
@@ -22453,7 +22453,7 @@
                         ]
                     ],
                     "file_path": "/modules/sg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "repo_file_path": "/modules/sg/main.tf",
                     "file_line_range": [
                         95,
@@ -22479,19 +22479,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-that-security-groups-are-attached-to-ec2-instances-or-elastic-network-interfaces-enis",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -22499,7 +22499,7 @@
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 6,
                                 "source_module_object": null
                             }
@@ -22715,7 +22715,7 @@
                         ]
                     ],
                     "file_path": "/modules/sg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "repo_file_path": "/modules/sg/main.tf",
                     "file_line_range": [
                         119,
@@ -22741,19 +22741,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-that-security-groups-are-attached-to-ec2-instances-or-elastic-network-interfaces-enis",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -22761,7 +22761,7 @@
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 6,
                                 "source_module_object": null
                             }
@@ -23025,7 +23025,7 @@
                         ]
                     ],
                     "file_path": "/modules/sg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "repo_file_path": "/modules/sg/main.tf",
                     "file_line_range": [
                         152,
@@ -23051,19 +23051,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-that-security-groups-are-attached-to-ec2-instances-or-elastic-network-interfaces-enis",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23071,7 +23071,7 @@
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 6,
                                 "source_module_object": null
                             }
@@ -23160,7 +23160,7 @@
                         ]
                     ],
                     "file_path": "/modules/alb/web_alb.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf",
                     "repo_file_path": "/modules/alb/web_alb.tf",
                     "file_line_range": [
                         49,
@@ -23184,7 +23184,7 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/bc-aws-2-74",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf"
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf"
                 },
                 {
                     "check_id": "CKV2_AWS_74",
@@ -23282,7 +23282,7 @@
                         ]
                     ],
                     "file_path": "/modules/asg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "repo_file_path": "/modules/asg/main.tf",
                     "file_line_range": [
                         61,
@@ -23306,13 +23306,13 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/bc-aws-2-74",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "breadcrumbs": {
                         "source_module_": [
                             {
                                 "type": "module",
                                 "name": "asg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 9,
                                 "source_module_object": null
                             }
@@ -23397,7 +23397,7 @@
                         ]
                     ],
                     "file_path": "/modules/vpc/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/vpc/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/vpc/main.tf",
                     "repo_file_path": "/modules/vpc/main.tf",
                     "file_line_range": [
                         1,
@@ -23424,19 +23424,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-logging-policies/logging-9-enable-vpc-flow-logging",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/vpc/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/vpc/main.tf",
                     "breadcrumbs": {
                         "cidr_block": [
                             {
                                 "type": "module",
                                 "name": "vpc",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "cidr_block",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/vpc/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/vpc/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23444,7 +23444,7 @@
                             {
                                 "type": "module",
                                 "name": "vpc",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 5,
                                 "source_module_object": null
                             }
@@ -23536,7 +23536,7 @@
                         ]
                     ],
                     "file_path": "/modules/vpc/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/vpc/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/vpc/main.tf",
                     "repo_file_path": "/modules/vpc/main.tf",
                     "file_line_range": [
                         1,
@@ -23563,19 +23563,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/networking-4",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/vpc/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/vpc/main.tf",
                     "breadcrumbs": {
                         "cidr_block": [
                             {
                                 "type": "module",
                                 "name": "vpc",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "cidr_block",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/vpc/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/vpc/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23583,7 +23583,7 @@
                             {
                                 "type": "module",
                                 "name": "vpc",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 5,
                                 "source_module_object": null
                             }
@@ -23669,7 +23669,7 @@
                         ]
                     ],
                     "file_path": "/modules/bastion-server/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "repo_file_path": "/modules/bastion-server/main.tf",
                     "file_line_range": [
                         1,
@@ -23698,19 +23698,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-iam-policies/ensure-an-iam-role-is-attached-to-ec2-instance",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "breadcrumbs": {
                         "key_name": [
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "key_name",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23718,13 +23718,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "image_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23732,13 +23732,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "instance_type",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23746,13 +23746,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "tags",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23760,13 +23760,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "subnet_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23774,13 +23774,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "security_groups",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -23788,7 +23788,7 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 11,
                                 "source_module_object": null
                             }
@@ -23903,7 +23903,7 @@
                         ]
                     ],
                     "file_path": "/modules/alb/web_alb.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf",
                     "repo_file_path": "/modules/alb/web_alb.tf",
                     "file_line_range": [
                         1,
@@ -23929,13 +23929,13 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-public-facing-alb-are-protected-by-waf",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf",
                     "breadcrumbs": {
                         "subnets": [
                             {
                                 "type": "variable",
                                 "name": "public_subnets",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/variables.tf",
                                 "module_connection": false
                             }
                         ]
@@ -24068,7 +24068,7 @@
                         ]
                     ],
                     "file_path": "/modules/asg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "repo_file_path": "/modules/asg/main.tf",
                     "file_line_range": [
                         2,
@@ -24097,13 +24097,13 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/ensure-public-facing-alb-are-protected-by-waf",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "breadcrumbs": {
                         "source_module_": [
                             {
                                 "type": "module",
                                 "name": "asg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 9,
                                 "source_module_object": null
                             }
@@ -24255,7 +24255,7 @@
                         ]
                     ],
                     "file_path": "/modules/alb/app_alb.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/app_alb.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/app_alb.tf",
                     "repo_file_path": "/modules/alb/app_alb.tf",
                     "file_line_range": [
                         17,
@@ -24328,13 +24328,13 @@
                         "resource": "aws_lb_listener.alb_listener_app",
                         "entity_tags": {},
                         "evaluations": null,
-                        "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/app_alb.tf",
+                        "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/app_alb.tf",
                         "resource_address": null
                     },
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/bc-aws-378",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/app_alb.tf"
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/app_alb.tf"
                 },
                 {
                     "check_id": "CKV_AWS_378",
@@ -24481,7 +24481,7 @@
                         ]
                     ],
                     "file_path": "/modules/alb/web_alb.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf",
                     "repo_file_path": "/modules/alb/web_alb.tf",
                     "file_line_range": [
                         16,
@@ -24554,13 +24554,13 @@
                         "resource": "aws_lb_listener.alb_listener_web_ssl",
                         "entity_tags": {},
                         "evaluations": null,
-                        "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf",
+                        "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf",
                         "resource_address": null
                     },
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/bc-aws-378",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/alb/web_alb.tf"
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/alb/web_alb.tf"
                 },
                 {
                     "check_id": "CKV_AWS_378",
@@ -24740,7 +24740,7 @@
                         ]
                     ],
                     "file_path": "/modules/asg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "repo_file_path": "/modules/asg/main.tf",
                     "file_line_range": [
                         21,
@@ -24769,13 +24769,13 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/bc-aws-378",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "breadcrumbs": {
                         "source_module_": [
                             {
                                 "type": "module",
                                 "name": "asg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 9,
                                 "source_module_object": null
                             }
