@@ -130,7 +130,7 @@ mysql -h db-instance-dev.cne0wymoyx30.ap-south-1.rds.amazonaws.com -u admin -p
 
 ## What are the Things I need to Replace if I do it myself
 
-- Github Repo: https://github.com/harishnshetty/3-tier-aws-terraform-packer-statelock-project.git  
+- Github Repo: https://github.com/elsonpulikkan96/aws-3-tier-app.git  
   *(because you've changed the bucket-name in the Terraform Project)*
 
 - Update the ACM Tags / SNS Topic ARN / create your own Route53 hosted Zone
@@ -268,7 +268,7 @@ terraform apply -var-file="dev.tfvars" -auto-approve
 ### Server Access & Database Connection
 **SSH into EC2 (Dev):**
 ```bash
-ssh -i "new-keypair.pem" ec2-user@ec2-3-6-88-181.ap-south-1.compute.amazonaws.com
+ssh -i "new-keypair.pem" ec2-user@ec2-3-6-88-181.us-east-1.compute.amazonaws.com
 ```
 
 **Copy Keypair to EC2 (Dev):**
