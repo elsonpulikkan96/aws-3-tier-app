@@ -17092,19 +17092,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-general-policies/bc-aws-354",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/main.tf",
                     "breadcrumbs": {
                         "vpc_security_group_ids": [
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_security_group_ids",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "//modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17112,13 +17112,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "allocated_storage",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17126,13 +17126,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "username",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17140,13 +17140,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "instance_class",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17154,13 +17154,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "storage_type",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17168,13 +17168,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "engine_version",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17182,13 +17182,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "parameter_group_name",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17196,13 +17196,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "password",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17210,13 +17210,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "engine",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17224,7 +17224,7 @@
                             {
                                 "type": "resource",
                                 "name": "aws_db_subnet_group.db_subnet_group",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/main.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17232,7 +17232,7 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 7,
                                 "source_module_object": null
                             }
@@ -17424,7 +17424,7 @@
                         ]
                     ],
                     "file_path": "/modules/rds/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/main.tf",
                     "repo_file_path": "/modules/rds/main.tf",
                     "file_line_range": [
                         16,
@@ -17456,19 +17456,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-logging-policies/ensure-that-enhanced-monitoring-is-enabled-for-amazon-rds-instances",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/main.tf",
                     "breadcrumbs": {
                         "vpc_security_group_ids": [
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_security_group_ids",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17476,13 +17476,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "allocated_storage",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17490,13 +17490,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "username",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17504,13 +17504,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "instance_class",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17518,13 +17518,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "storage_type",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17532,13 +17532,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "engine_version",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17546,13 +17546,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "parameter_group_name",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17560,13 +17560,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "password",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17574,13 +17574,13 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "engine",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17588,7 +17588,7 @@
                             {
                                 "type": "resource",
                                 "name": "aws_db_subnet_group.db_subnet_group",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/rds/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/rds/main.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17596,7 +17596,7 @@
                             {
                                 "type": "module",
                                 "name": "rds",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 7,
                                 "source_module_object": null
                             }
@@ -17628,7 +17628,7 @@
                         ]
                     ],
                     "file_path": "/modules/secrets/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/secrets/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/secrets/main.tf",
                     "repo_file_path": "/modules/secrets/main.tf",
                     "file_line_range": [
                         1,
@@ -17655,13 +17655,13 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-general-policies/ensure-that-secrets-manager-secret-is-encrypted-using-kms",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/secrets/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/secrets/main.tf",
                     "breadcrumbs": {
                         "source_module_": [
                             {
                                 "type": "module",
                                 "name": "secrets",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 8,
                                 "source_module_object": null
                             }
@@ -17776,7 +17776,7 @@
                         ]
                     ],
                     "file_path": "/modules/sg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "repo_file_path": "/modules/sg/main.tf",
                     "file_line_range": [
                         1,
@@ -17805,19 +17805,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/bc-aws-382",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "vpc_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/variables.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/variables.tf",
                                 "module_connection": false
                             }
                         ],
@@ -17825,7 +17825,7 @@
                             {
                                 "type": "module",
                                 "name": "sg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 6,
                                 "source_module_object": null
                             }
@@ -17939,7 +17939,7 @@
                         ]
                     ],
                     "file_path": "/modules/sg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "repo_file_path": "/modules/sg/main.tf",
                     "file_line_range": [
                         1,
@@ -17968,7 +17968,7 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-networking-policies/networking-31",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/sg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/sg/main.tf",
                     "breadcrumbs": {
                         "vpc_id": [
                             {
