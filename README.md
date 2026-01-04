@@ -153,8 +153,7 @@ du -sh * .
 ## if you found any difficulty to delete the secrets in the secretsmanager delete them
 
 ```bash
-aws secretsmanager delete-secret --secret-id backend-db-credentials-dev --force-delete-without-recovery --region ap-south-1
-
+aws secretsmanager delete-secret --secret-id backend-db-credentials-dev --force-delete-without-recovery --region us-east-1
 
 aws secretsmanager delete-secret --secret-id backend-db-credentials-stage --force-delete-without-recovery --region us-east-1
 ```
