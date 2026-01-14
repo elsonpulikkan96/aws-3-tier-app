@@ -15263,7 +15263,7 @@
                             {
                                 "type": "module",
                                 "name": "asg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 9,
                                 "source_module_object": null
                             }
@@ -15403,7 +15403,7 @@
                         ]
                     ],
                     "file_path": "/modules/asg/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "repo_file_path": "/modules/asg/main.tf",
                     "file_line_range": [
                         244,
@@ -15430,13 +15430,13 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-general-policies/bc-aws-general-31",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                     "breadcrumbs": {
                         "iam_instance_profile.name": [
                             {
                                 "type": "resource",
                                 "name": "aws_iam_instance_profile.app_profile",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/asg/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/asg/main.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15444,7 +15444,7 @@
                             {
                                 "type": "module",
                                 "name": "asg",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 9,
                                 "source_module_object": null
                             }
@@ -15496,7 +15496,7 @@
                         ]
                     ],
                     "file_path": "/modules/bastion-server/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "repo_file_path": "/modules/bastion-server/main.tf",
                     "file_line_range": [
                         1,
@@ -15528,19 +15528,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-general-policies/bc-aws-general-31",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "breadcrumbs": {
                         "key_name": [
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "key_name",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15548,13 +15548,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "image_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15562,13 +15562,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "instance_type",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15576,13 +15576,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "tags",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15590,13 +15590,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "subnet_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15604,13 +15604,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "security_groups",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15618,7 +15618,7 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 11,
                                 "source_module_object": null
                             }
@@ -15670,7 +15670,7 @@
                         ]
                     ],
                     "file_path": "/modules/bastion-server/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "repo_file_path": "/modules/bastion-server/main.tf",
                     "file_line_range": [
                         1,
@@ -15702,19 +15702,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-logging-policies/ensure-that-detailed-monitoring-is-enabled-for-ec2-instances",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "breadcrumbs": {
                         "key_name": [
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "key_name",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15722,13 +15722,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "image_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15736,13 +15736,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "instance_type",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15750,13 +15750,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "tags",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15764,13 +15764,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "subnet_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15778,13 +15778,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "security_groups",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15792,7 +15792,7 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "idx": 11,
                                 "source_module_object": null
                             }
@@ -15844,7 +15844,7 @@
                         ]
                     ],
                     "file_path": "/modules/bastion-server/main.tf",
-                    "file_abs_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "file_abs_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "repo_file_path": "/modules/bastion-server/main.tf",
                     "file_line_range": [
                         1,
@@ -15876,19 +15876,19 @@
                     "guideline": "https://docs.prismacloud.io/en/enterprise-edition/policy-reference/aws-policies/aws-general-policies/general-13",
                     "details": [],
                     "check_len": null,
-                    "definition_context_file_path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/main.tf",
+                    "definition_context_file_path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/main.tf",
                     "breadcrumbs": {
                         "key_name": [
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "key_name",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15896,13 +15896,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "image_id",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15910,13 +15910,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "instance_type",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15924,13 +15924,13 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app//main.tf",
                                 "module_connection": false
                             },
                             {
                                 "type": "variable",
                                 "name": "tags",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/modules/bastion-server/varibales.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app/modules/bastion-server/varibales.tf",
                                 "module_connection": false
                             }
                         ],
@@ -15938,7 +15938,7 @@
                             {
                                 "type": "module",
                                 "name": "bastion",
-                                "path": "/home/harish/Desktop/project-alb/terraform-project-vpc-alb-modules-workspace/main.tf",
+                                "path": "/Users/elsonpealias/kiro/aws-3-tier-app//main.tf",
                                 "module_connection": false
                             },
                             {
